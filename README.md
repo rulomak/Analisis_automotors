@@ -10,7 +10,7 @@ El objetivo del análisis es proporcionar al cliente toda la información releva
 
 He creado un dashboard interactivo en Power BI para visualizar los resultados y conclusiones del análisis. Puedes acceder a la demo en el siguiente enlace:
 
-[Enlace a la demo - Dashboard de Power BI](https://youtube.com)
+[Enlace a la demo - Dashboard de Power BI](https://www.youtube.com/watch?v=EjfgMkZtZVU&t=3s)
 
 El dashboard te permitirá explorar los datos en detalle, realizar filtros y obtener información valiosa sobre el impacto de la pandemia en nuestro negocio.
 
